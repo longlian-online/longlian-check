@@ -2,3 +2,7 @@
 	path = backend
 	url = https://github.com/longlian-online/longlian-check-backend.git
 	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/longlian-online/longlian-check-frontend.git
+	branch = main
